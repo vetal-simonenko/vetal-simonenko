@@ -1,13 +1,13 @@
-### Hey, I'm Vetal and I'm Software Engineer! I have 10+ Years Experience in Web Development!
+### 👋 <i>Hey, I'm Vetal and I'm Software Engineer! I have 10+ Years Experience in Web Development!</i>
 <hr />
 
-### 🤝 For more info go here:
+### 🤝 <i>For more info go here:</i>
 <a href="https://www.linkedin.com/in/vetaldev/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <hr />
 
-### 💻 My Tech Stack:
+### 💻 <i>My Tech Stack:</i>
 <img alt="react" src="https://img.shields.io/badge/react-149eca.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="rtk" src="https://img.shields.io/badge/RTK-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
@@ -25,7 +25,7 @@
 <img alt="materialui" src="https://img.shields.io/badge/material%20UI-011e3c.svg?&style=for-the-badge&logo=mui&logoColor=fff" />&nbsp;
 <hr />
 
-### 🛠 Tools:
+### 🛠 <i>Tools:</i>
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
