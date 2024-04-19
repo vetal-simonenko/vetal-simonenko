@@ -1,5 +1,4 @@
-### Hi all, I'm Vetal and I'm Software Engineer!
-I have 10+ Years Experience in Web Development!
+### Hey, I'm Vetal and I'm Software Engineer! I have 10+ Years Experience in Web Development!
 <hr />
 
 ### 🤝 For more info go here:
@@ -16,7 +15,7 @@ I have 10+ Years Experience in Web Development!
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
-<img alt="aws" src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=fff" />&nbsp;
+<img alt="aws" src="https://img.shields.io/badge/amazone%20web%20services-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
@@ -31,5 +30,7 @@ I have 10+ Years Experience in Web Development!
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-ff7568.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="microsoft teams" src="https://img.shields.io/badge/teams-3e45ab.svg?&style=for-the-badge&logo=microsoftteams&logoColor=fff" />&nbsp;
+<img alt="postman" src="https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
