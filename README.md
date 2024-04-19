@@ -1,18 +1,14 @@
-### Hi all, I'm Vetal :)
+### Hi all, I'm Vetal and I'm Software Engineer!
+- 💻 10+ Years Experience in Web Development
+<hr />
 
-## I'm a Software Engineer!
-
-- 📍 I’m From Ukraine
-- 💻 10+ Years Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
-
-### 🤝 Connect with me:
+### 🤝 For more info go here:
 <a href="https://www.linkedin.com/in/vetaldev/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<hr />
 
-### 💻 Tech Stack:
-
+### 💻 My Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="redux-thunk" src="https://img.shields.io/badge/redux%20thunk-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
@@ -29,9 +25,9 @@
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+<hr />
 
 ### 🛠 Tools:
-
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
