@@ -9,10 +9,10 @@ I have 10+ Years Experience in Web Development!
 <hr />
 
 ### 💻 My Tech Stack:
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-149eca.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="rtk" src="https://img.shields.io/badge/RTK-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-f1db54.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
@@ -20,8 +20,8 @@ I have 10+ Years Experience in Web Development!
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/html-e34e25.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-214ce5.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="materialui" src="https://img.shields.io/badge/material%20UI-011e3c.svg?&style=for-the-badge&logo=mui&logoColor=fff" />&nbsp;
 <hr />
