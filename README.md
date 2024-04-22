@@ -7,7 +7,7 @@
 </a>
 <hr />
 
-### 💻 <i>My Tech Stack:</i>
+### 💻 <i>Tech Stack:</i>
 <img alt="react" src="https://img.shields.io/badge/react-149eca.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="rtk" src="https://img.shields.io/badge/RTK-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
