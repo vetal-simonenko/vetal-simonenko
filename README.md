@@ -1,4 +1,7 @@
 ### 👋 <i>Hey, I'm Vetal and I'm Software Engineer! I have 10+ Years Experience in Web Development!</i>
+<a href="https://www.linkedin.com/in/vetaldev/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a
 <hr />
 
 ### 🤝 <i>For more info go here:</i>
