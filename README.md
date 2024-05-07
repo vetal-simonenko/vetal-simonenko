@@ -20,6 +20,7 @@
 <img alt="css3" src="https://img.shields.io/badge/css-214ce5.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="materialui" src="https://img.shields.io/badge/material%20UI-011e3c.svg?&style=for-the-badge&logo=mui&logoColor=fff" />&nbsp;
+<img alt="materialui" src="https://img.shields.io/badge/tailwindcss-131413.svg?&style=for-the-badge&logo=tailwindcss&logoColor=6983f7" />&nbsp;
 <hr />
 
 ### 🛠 <i>Tools:</i>
