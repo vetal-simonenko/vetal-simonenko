@@ -32,3 +32,4 @@
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-ff7568.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="docker" src="https://img.shields.io/badge/docker-fff.svg?&style=for-the-badge&logo=docker&logoColor=2597ee" />&nbsp;
