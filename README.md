@@ -24,7 +24,7 @@
 <hr />
 
 ### 🛠 <i>Tools:</i>
-<img alt="webstorm" src="https://img.shields.io/badge/webstorm-177ed1.svg?&style=for-the-badge&logo=webstorm&logoColor=000" />&nbsp;
+<img alt="webstorm" src="https://img.shields.io/badge/webstorm-177ed1.svg?&style=for-the-badge&logo=webstorm&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="microsoft teams" src="https://img.shields.io/badge/teams-3e45ab.svg?&style=for-the-badge&logo=microsoftteams&logoColor=fff" />&nbsp;
