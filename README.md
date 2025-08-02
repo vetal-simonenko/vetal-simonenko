@@ -1,4 +1,4 @@
-### 👋 <i>Hey, I'm Vetal and I'm Senior Software Engineer with a main focus on front-end development<br/> (80% front-end, 20% back-end and back-end for front-end).<br/> I have 12+ Years of Experience in Web Development:</i>
+### 👋 <i>Hey, I'm Vetal and I'm Senior Software Engineer with a main focus on front-end development<br/> (80% front-end, 20% back-end and back-end for front-end).<br/> AI assisted development experience 🤖<br/> I have 12+ Years of Experience in Web Development:</i>
 <a href="https://www.linkedin.com/in/vetaldev/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
