@@ -1,4 +1,4 @@
-### 👋 <i>Hey, I'm Vetal and I'm Senior Software Engineer with a main focus on front-end development<br/> (70% front-end, 30% back-end and back-end for front-end).<br/> I have 11+ Years of Experience in Web Development:</i>
+### 👋 <i>Hey, I'm Vetal and I'm Senior Software Engineer with a main focus on front-end development<br/> (80% front-end, 20% back-end and back-end for front-end).<br/> I have 12+ Years of Experience in Web Development:</i>
 <a href="https://www.linkedin.com/in/vetaldev/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -7,10 +7,12 @@
 ### 💻 <i>Tech Stack:</i>
 <img alt="react" src="https://img.shields.io/badge/react-149eca.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="rtk" src="https://img.shields.io/badge/RTK-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="tanstackquery" src="https://img.shields.io/badge/TanStack%20Query-101827.svg?&style=for-the-badge&logo=reactquery&logoColor=f59a0d" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-f1db54.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="express.js" src="https://img.shields.io/badge/Express-101827.svg?&style=for-the-badge&logo=express&logoColor=f59a0d" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="aws" src="https://img.shields.io/badge/amazon%20web%20services-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
